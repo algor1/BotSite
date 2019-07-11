@@ -1,5 +1,6 @@
 
 #ignore all exept py
 /**
+!*/
 !/.gitignore
 !*.py
